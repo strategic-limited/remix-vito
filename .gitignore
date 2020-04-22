@@ -14,13 +14,13 @@ npm-debug.log
 yarn-error.log
 
 
-public/css/app.css
-public/js/app.js
-public/fonts/*
-public/images/*
-public/mix-manifest.json
-public/vendors~canvg.js
-public/vendors~pdfmake.js
-public/vendors~xlsx.js
-public/xlsx.js
+#public/css/app.css
+#public/js/app.js
+#public/fonts/*
+#public/images/*
+#public/mix-manifest.json
+#public/vendors~canvg.js
+#public/vendors~pdfmake.js
+#public/vendors~xlsx.js
+#public/xlsx.js
 .idea/*
